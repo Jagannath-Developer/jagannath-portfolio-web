@@ -1,6 +1,9 @@
 import React from 'react'
 
+
+
 export default function ContactPage() {
+    
     return (
         <div className='container'>
             <div className='row justify-content-around mt-5'>
@@ -24,7 +27,7 @@ export default function ContactPage() {
                     </div>
                     <div className='card p-3 mt-3'>
                         <div>
-                            <span className='bi bi-envelope fs-5'></span>
+                            <span className='bi bi-whatsapp fs-5'></span>
                         </div>
                         <div>
                             <h5>Whatsapp</h5>
@@ -43,11 +46,11 @@ export default function ContactPage() {
                     <h3 className='text-center'>Write me your project</h3>
                     <div className="mb-3">
                         <label className="form-label">Name</label>
-                        <input type="name" className="form-control" id="exampleFormControlInput1" placeholder="Insert your name"/>
+                        <input type="name" className="form-control" id="exampleFormControlInput1" placeholder="Insert your name" />
                     </div>
                     <div className="mb-3">
                         <label for="exampleFormControlInput1" className="form-label">Email address</label>
-                        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com"/>
+                        <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
                     </div>
                     <div className="mb-3">
                         <label for="exampleFormControlTextarea1" className="form-label">Example textarea</label>
