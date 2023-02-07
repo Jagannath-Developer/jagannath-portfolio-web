@@ -17,7 +17,7 @@ export default function ContactPage() {
                             <h5>Email</h5>
                         </div>
                         <div>
-                            <p>user@gmail.com</p>
+                            <p>raojagannath11@gmail.com</p>
                         </div>
 
                         <div>
@@ -33,7 +33,7 @@ export default function ContactPage() {
                             <h5>Whatsapp</h5>
                         </div>
                         <div>
-                            <p>999-8888-777</p>
+                            <p>+91-898-4665-506</p>
                         </div>
 
                         <div>
