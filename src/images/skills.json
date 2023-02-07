@@ -1,0 +1,63 @@
+[{
+        "frontEnd": [{
+                "id": 1,
+                "title": "HMTL",
+                "description": "Advance"
+            },
+            {
+                "id": 2,
+                "title": "Bootstrap",
+                "description": "Advance"
+            },
+            {
+                "id": 3,
+                "title": "CSS",
+                "description": "Advance"
+            },
+            {
+                "id": 4,
+                "title": "Git",
+                "description": "Intermediate"
+            },
+            {
+                "id": 5,
+                "title": "JavaScript",
+                "description": "Advance"
+            },
+            {
+                "id": 6,
+                "title": "React",
+                "description": "Advance"
+            }
+        ],
+
+        "backEnd": [{
+                "id": 1,
+                "title": "Node Js",
+                "description": "Advance"
+            },
+            {
+                "id": 2,
+                "title": "Firebase",
+                "description": "Intermediate"
+            },
+            {
+                "id": 3,
+                "title": "MongoDb",
+                "description": "Advance"
+            },
+            {
+                "id": 4,
+                "title": "Python",
+                "description": "Intermediate"
+            },
+            {
+                "id": 5,
+                "title": "Express",
+                "description": "Intermediate"
+            }
+
+        ]
+    }]
+
+ 

@@ -1,0 +1,10 @@
+.App{
+    position: relative;
+    padding-bottom: 250px;
+    min-height: 100vh;
+}
+.footer_div{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
