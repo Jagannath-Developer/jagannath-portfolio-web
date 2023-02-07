@@ -33,7 +33,7 @@ export default function ContactPage() {
                             <h5>Whatsapp</h5>
                         </div>
                         <div>
-                            <p>+91-898-4665-506</p>
+                            <p>+91-898-4665-806</p>
                         </div>
 
                         <div>
